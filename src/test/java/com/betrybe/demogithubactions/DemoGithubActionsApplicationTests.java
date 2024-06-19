@@ -11,4 +11,9 @@ class DemoGithubActionsApplicationTests {
 		// comment
 	}
 
+	@Test
+	void contextLoads2() {
+		// comment
+	}
+
 }
