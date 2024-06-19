@@ -10,6 +10,7 @@ class DemoGithubActionsApplicationTests {
 	void contextLoads() {
 
 		// comment
+		// comment
 	}
 
 }
